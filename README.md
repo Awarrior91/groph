@@ -1,6 +1,6 @@
 # groph
 
-`import "git.fractalqb.de/fractalqb/goxic-tex"`
+`import "git.fractalqb.de/fractalqb/groph"`
 
 ---
 
